@@ -1,0 +1,15 @@
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\bin\Debug\net6.0\GolfGame.exe
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\bin\Debug\net6.0\GolfGame.deps.json
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\bin\Debug\net6.0\GolfGame.runtimeconfig.json
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\bin\Debug\net6.0\GolfGame.dll
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\bin\Debug\net6.0\GolfGame.pdb
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.csproj.AssemblyReference.cache
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.AssemblyInfoInputs.cache
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.AssemblyInfo.cs
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.csproj.CoreCompileInputs.cache
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.dll
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\refint\GolfGame.dll
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.pdb
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\GolfGame.genruntimeconfig.cache
+C:\Users\Caroline\Documents\Coding\C#\Lexicon\GolfGame\obj\Debug\net6.0\ref\GolfGame.dll
